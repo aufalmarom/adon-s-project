@@ -1,0 +1,4 @@
+QNA
+1. async
+2. validate form 
+3. lazy load
